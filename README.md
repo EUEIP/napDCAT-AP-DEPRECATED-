@@ -1,4 +1,4 @@
-<h1> DEPRECATED </h1>h1>
+<h1> DEPRECATED </h1>
 Please consider the follow-up project [mobilityDCAT-AP](https://github.com/mobilityDCAT-AP)
 
 
